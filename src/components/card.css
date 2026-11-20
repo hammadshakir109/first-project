@@ -1,0 +1,16 @@
+.second{
+ background-color: gray;
+ color: black;
+ border: 2px solid black;
+ border-radius: 10px;
+margin: 10px;
+padding: 20px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+}
+
+

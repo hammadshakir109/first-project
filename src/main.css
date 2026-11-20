@@ -1,0 +1,14 @@
+.line1{
+    display: flex;
+}
+
+.line2{
+    display: flex;
+}
+.main{
+   display: grid;
+   grid-template-rows:1fr ;
+}
+
+
+
